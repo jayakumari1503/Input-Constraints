@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ashutosh prasad\\AndroidStudioProjects\\InputConstraints\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_input.xml",
+        "source": "C:\\Users\\Ashutosh prasad\\AndroidStudioProjects\\InputConstraints\\app\\src\\main\\res\\layout\\activity_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ashutosh prasad\\AndroidStudioProjects\\InputConstraints\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activiy_input.xml",
+        "source": "C:\\Users\\Ashutosh prasad\\AndroidStudioProjects\\InputConstraints\\app\\src\\main\\res\\layout\\activiy_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ashutosh prasad\\AndroidStudioProjects\\InputConstraints\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_input_constraints.xml",
+        "source": "C:\\Users\\Ashutosh prasad\\AndroidStudioProjects\\InputConstraints\\app\\src\\main\\res\\layout\\activity_input_constraints.xml"
+    }
+]

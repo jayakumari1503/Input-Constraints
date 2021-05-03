@@ -1,0 +1,15 @@
+com/streamliners/inputconstraints/databinding/ActivityInputConstraintsBinding.java
+ com.streamliners.inputconstraints.databinding.ActivityInputConstraintsBinding
+com/streamliners/inputconstraints/Constants.java
+ com.streamliners.inputconstraints.Constants
+com/streamliners/inputconstraints/BuildConfig.java
+ com.streamliners.inputconstraints.BuildConfig
+com/streamliners/inputconstraints/databinding/ActiviyInputBinding.java
+ com.streamliners.inputconstraints.databinding.ActiviyInputBinding
+com/streamliners/inputconstraints/InputActivity.java
+ com.streamliners.inputconstraints.InputActivity
+ com.streamliners.inputconstraints.InputActivity$1
+ com.streamliners.inputconstraints.InputActivity$2
+com/streamliners/inputconstraints/InputConstraintsActivity.java
+ com.streamliners.inputconstraints.InputConstraintsActivity
+ com.streamliners.inputconstraints.InputConstraintsActivity$1
