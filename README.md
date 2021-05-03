@@ -1,4 +1,6 @@
 # Input-Constraints
+I have made an application to take required type of constraints in a string.
+Download [APK](https://github.com/jayakumari1503/Input-Constraints/blob/main/app/build/outputs/apk/debug/inputConstraints-debug.apk) for the application.
 
 # Preview of the Application
 ![Screenshot_2021-05-03-22-07-15-09_13f4a3e2f660cc6e0df92439118122e5](https://user-images.githubusercontent.com/78533628/116907183-dd9eb080-ac5e-11eb-8972-5c2ce75bf2b1.jpg)
