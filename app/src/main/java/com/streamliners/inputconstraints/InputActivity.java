@@ -80,10 +80,6 @@ public class InputActivity extends AppCompatActivity {
     }
 
     public void sendInput(View view) {
-
-        binding.sendbackButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
                 String input = binding.textField.getEditText().getText().toString().trim();
 
                 //check input is not empty
@@ -105,10 +101,6 @@ public class InputActivity extends AppCompatActivity {
 
                 finish();
             }
-        });
-
-
-    }
 }
 
 
